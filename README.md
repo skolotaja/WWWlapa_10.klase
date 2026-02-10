@@ -1,1 +1,1 @@
-# WWWlapa_10.klase
+WWWlapa_10.klase
